@@ -1,2 +1,7 @@
 # vagrant-serverless
-vagrant machine with serverless installed
+vagrant configuration with serverless installed
+
+## Prerequisites
+1. "vagrant-vbguest" plugin for vagrant
+
+vagrant plugin install vagrant-vbguest
